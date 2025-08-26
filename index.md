@@ -25,5 +25,6 @@ String line = "World";
 - [X] Adding image
 - [x] Code example
 - [X] Task list making
-- [ ] Merging pull requests
-- [ ] Finish
+- [X] Merging pull requests
+- [x] Finish
+
