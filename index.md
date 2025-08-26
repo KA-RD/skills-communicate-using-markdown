@@ -20,3 +20,10 @@ char String[ ] = "Hello";
 ```
 String line = "World";
 ```
+# Creating a task list (this is actually interesting)
+- [X] Playing with hearders
+- [X] Adding image
+- [x] Code example
+- [X] Task list making
+- [ ] Merging pull requests
+- [ ] Finish
