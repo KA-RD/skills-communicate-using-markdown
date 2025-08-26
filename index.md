@@ -13,7 +13,10 @@
 # Adding a code example
 
 ##### C
+```
 char String[ ] = "Hello";
-
+```
 ##### Java
+```
 String line = "World";
+```
